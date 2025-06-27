@@ -1,23 +1,21 @@
 {
   "name": "mistral-M",
   "short_name": "mistral-M",
-  "start_url": "index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2B60DE",
   "description": "Orders system",
   "icons": [
     {
-      "src": "Pwd1",
+      "src": "Pwd1.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "Pwd",
+      "src": "Pwd.png",
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
-} }
   ]
 }
